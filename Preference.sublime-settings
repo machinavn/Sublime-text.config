@@ -1,13 +1,22 @@
 {
+	"draw_minimap_border": true,
+	"fade_fold_buttons": false,
+	"font_size": 11,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
 	"soda_classic_tabs": true,
 	"soda_rect_scrollbars": true,
 	"soda_tabs_autowidth": true,
-	"font_size": 11,
 	"tab_size": 4,
+	"theme": "SoDaReloaded Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"theme": "SoDaReloaded Dark.sublime-theme"
+	"trim_trailing_white_space_on_save": true
 }
